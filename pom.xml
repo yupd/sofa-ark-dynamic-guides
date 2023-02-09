@@ -6,7 +6,7 @@
     <parent>
 		<groupId>com.alipay.sofa</groupId>
 		<artifactId>sofaboot-dependencies</artifactId>
-		<version>3.11.0</version>
+		<version>3.16.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
